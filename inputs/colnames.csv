@@ -1,0 +1,5 @@
+,condition,type
+HBR1,normal,paired-end
+HBR2,normal,paired-end
+UHRR1,cancerous,paired-end
+UHRR2,cancerous,paired-end
